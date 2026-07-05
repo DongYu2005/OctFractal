@@ -1,0 +1,7 @@
+[submodule "pku-3dfractal"]
+	path = pku-3dfractal
+	url = https://github.com/DongYu2005/PKU-3Dfractalgeneration.git
+	branch = feat/v5-flag-scaffolding
+[submodule "octfractal"]
+	path = octfractal
+	url = https://github.com/2300094810/Octfractal.git
