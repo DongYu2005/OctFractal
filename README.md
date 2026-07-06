@@ -29,4 +29,4 @@ git submodule update --init
 
 ## 参考
 
-- [OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation](https://github.com/octree-nn/octgpt)（SIGGRAPH 2025）：本项目的 baseline 与冻结 VQ-VAE 来源，预训练权重见 HF [`wst2001/OctGPT`](https://huggingface.co/wst2001/OctGPT)
+- [OctGPT: Octree-based Multiscale Autoregressive Models for 3D Shape Generation](https://github.com/octree-nn/octgpt)（SIGGRAPH 2025）：本项目的 baseline 与冻结 VQ-VAE 来源，预训练权重见 HF [`wst2001/OctGPT`](https://huggingface.co/wst2001/OctGPT) 
